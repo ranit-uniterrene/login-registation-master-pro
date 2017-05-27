@@ -1,7 +1,7 @@
 <?php
 /*
   Plugin Name: Login and Registration Master Pro
-  Plugin URI: http://dropsofvisions.com/
+  Plugin URI: https://github.com/ranit-uniterrene/login-registation-master-pro
   Description: Simple Plugin to add login and registrtion forms where you want. 
 
   Version: 1.0
